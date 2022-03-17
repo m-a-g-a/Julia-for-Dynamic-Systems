@@ -1,6 +1,6 @@
-# JULIA for Dynamical Systems
+# JULIA for Nonlinear Dynamical Systems
 
-Dynamical Systems simulations and analysis made with Julia programming language
+Nonlinear Dynamical Systems simulations and analysis made with Julia programming language
 
 ## To Read about this work and how to cite it:
 
