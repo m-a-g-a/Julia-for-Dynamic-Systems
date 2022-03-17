@@ -1,6 +1,8 @@
-# Sloshing and Parametric Ressonance
+# JULIA for Dynamical Systems
 
-To Read about this work and how to cite it:
+Dynamical Systems simulation and analysis made with Julia programming language
+
+## To Read about this work and how to cite it:
 
 [1.Slosh and Parametric Ressonance](https://github.com/m-a-g-a/Julia-for-Dynamic-Systems/blob/main/1-Slosh-and-Parametric-Ressonance.ipynb)
   
