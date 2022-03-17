@@ -1,6 +1,6 @@
 # JULIA for Dynamical Systems
 
-Dynamical Systems simulation and analysis made with Julia programming language
+Dynamical Systems simulations and analysis made with Julia programming language
 
 ## To Read about this work and how to cite it:
 
