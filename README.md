@@ -1,5 +1,4 @@
-# Julia-for-Dynamical-Systems
-Dyamic Systems simulation and analysis made using Julia programming language
+# Sloshing and Parametric Ressonance
 
 To Read about this work and how to cite it:
 
